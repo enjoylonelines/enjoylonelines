@@ -9,7 +9,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&durat
         </a>
 
 <div style="display:flex; flex-direction:column; align-items: center">
-##  🔨 My skills 🔨
+## 🔨 My skills 🔨
         <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
