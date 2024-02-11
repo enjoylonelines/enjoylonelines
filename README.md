@@ -10,7 +10,7 @@
 </a>
 
 ## 🔨 My skills 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start; align: center">
+<div style="display:flex; flex-direction:column; align-items:flex-start; align = "center">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
