@@ -8,7 +8,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&durat
             <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
         </a>
 ## 🔨 My skills 🔨
-<div style="display:flex; flex-direction:column; justifyContents: center">
+<div style="display:flex; flex-direction:column; justifyContents: 'center'">
         <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
