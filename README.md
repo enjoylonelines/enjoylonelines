@@ -10,7 +10,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&durat
 ## 🔨 My skills 🔨
 <div align=center>
         <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <p><strong>## Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
