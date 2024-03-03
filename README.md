@@ -58,8 +58,8 @@
 <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoylonelines&show_icons=true&theme=tokyonight&center=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=b4ur2old)](https://solved.ac/b4ur2old/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoylonelines&show_icons=true&theme=tokyonight&center=true)
 
 <div align=center>
         <a href="https://hits.seeyoufarm.com">
