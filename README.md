@@ -36,7 +36,7 @@
     <!-- Backend -->
     <h2><strong>👨‍💻 Backend 👨‍💻</strong></h2>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">&nbsp
     </div>
     <br>
@@ -51,7 +51,7 @@
     <h2><strong>📚 etc 📚</strong></h2>
     <div>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">&nbsp
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">&nbsp
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">&nbsp
     </div>
 </div>
 
@@ -59,6 +59,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoylonelines&show_icons=true&theme=tokyonight&center=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/b4ur2old/)
 
 <a href="https://hits.seeyoufarm.com" align=center>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenjoylonelines&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
