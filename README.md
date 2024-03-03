@@ -31,4 +31,4 @@ SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&durat
 </div><br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoylonelines&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoylonelines&show_icons=true&theme=tokyonight)
