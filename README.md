@@ -3,10 +3,10 @@
 
 <div align=center>
         <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hobeom2049@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
         </a>
         <a href="https://velog.io/@b4ur2old/posts">
-            <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
+            <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
         </a>                
 </div>
 <h1 align=center> 🔨 My skills 🔨</h1>
@@ -16,8 +16,8 @@
     <div>
         <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </div>
     <br>
     <!-- Backend -->
