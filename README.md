@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a5acd&text=&animation=twinkling&height=80)
-[![TypingSVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6a5acd&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+👋+I'm+b4ur2old!)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6a5acd&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+b4ur2old's+Github👋)](https://git.io/typing-svg)
 
 <div align=center>
         <h1>📞 Contact 📞</h1>
@@ -40,4 +40,4 @@
 <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoylonelines&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoylonelines&show_icons=true&theme=tokyonight&center=true)
