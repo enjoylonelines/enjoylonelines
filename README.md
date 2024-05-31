@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a5acd&text=&animation=twinkling&height=80)
 
 <div align=center>
-        <h1>📞 Contact 📞</h1>
+        <h1> Contact </h1>
         <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hobeom2049@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
         </a>&nbsp
@@ -10,10 +10,8 @@
         </a>                
 </div>
 
-<h1 align=center> 🔨 Stacks 🔨</h1>
+<h1 align=center> Stacks </h1>
 <div align=center>
-        <!-- Frontend -->
-    <h2><strong> Frontend </strong></h2>
     <div>
             <div>
                 <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
